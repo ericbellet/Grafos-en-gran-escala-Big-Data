@@ -53,6 +53,7 @@
 * http://www.snee.com/bobdc.blog/2015/03/spark-and-sparql-rdf-graphs-an.html
 * http://www.edureka.co/about-apache-spark-scala-training
 * https://neo4j.com/developer/apache-spark/
+* http://www.kennybastani.com/2015/03/spark-neo4j-tutorial-docker.html
 
 
 
