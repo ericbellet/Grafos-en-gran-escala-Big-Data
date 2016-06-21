@@ -43,6 +43,16 @@
 * https://www.r-project.org/conferences/useR-2010/slides/Zhang.pdf
 * http://www.r-bloggers.com/tag/social-network-analysis/
 * http://www.slideshare.net/keithpjolley/keith-jolley-project-report-final-rev-b
+* https://blog.cloudera.com/blog/2014/04/how-to-run-a-simple-apache-spark-app-in-cdh-5/
+* http://titan.thinkaurelius.com/
+* http://www.cs.cmu.edu/~pegasus/
+* https://www.adictosaltrabajo.com/tutoriales/cloudera-manager/
+* https://oscarquerejazu.wordpress.com/category/bigdata/
+* http://www.bogotobogo.com/Hadoop/BigData_hadoop_QuickStart%20VMs%20for%20CDH%205.3.x.php
+* https://ofirm.wordpress.com/2014/01/05/creating-a-virtualized-fully-distributed-hadoop-cluster-using-linux-containers/
+* http://www.snee.com/bobdc.blog/2015/03/spark-and-sparql-rdf-graphs-an.html
+* http://www.edureka.co/about-apache-spark-scala-training
+* https://neo4j.com/developer/apache-spark/
 
 
 
