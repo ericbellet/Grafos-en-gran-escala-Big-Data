@@ -54,7 +54,10 @@
 * http://www.edureka.co/about-apache-spark-scala-training
 * https://neo4j.com/developer/apache-spark/
 * http://www.kennybastani.com/2015/03/spark-neo4j-tutorial-docker.html
-
+* http://kukuruku.co/hub/algorithms/social-network-analysis-spark-graphx
+* https://github.com/dmarcous/spark-betweenness/blob/master/src/main/scala/com/centrality/kBC/KBetweenness.scala
+* https://spark-packages.org/package/sparkling-graph/sparkling-graph
+* https://spark-packages.org/package/dmarcous/spark-betweenness
 
 
 
