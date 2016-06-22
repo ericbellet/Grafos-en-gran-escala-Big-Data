@@ -58,6 +58,8 @@
 * https://github.com/dmarcous/spark-betweenness/blob/master/src/main/scala/com/centrality/kBC/KBetweenness.scala
 * https://spark-packages.org/package/sparkling-graph/sparkling-graph
 * https://spark-packages.org/package/dmarcous/spark-betweenness
+* http://www.mkbergman.com/414/large-scale-rdf-graph-visualization-tools/
+* http://www.cise.ufl.edu/research/sparse/matrices/
 
 
 
