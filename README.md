@@ -60,7 +60,8 @@
 * https://spark-packages.org/package/dmarcous/spark-betweenness
 * http://www.mkbergman.com/414/large-scale-rdf-graph-visualization-tools/
 * http://www.cise.ufl.edu/research/sparse/matrices/
-
+* http://kukuruku.co/hub/algorithms/social-network-analysis-spark-graphx
+* http://www.sparktutorials.net/analyzing-flight-data:-a-gentle-introduction-to-graphx-in-spark
 
 
 ## Integrante
