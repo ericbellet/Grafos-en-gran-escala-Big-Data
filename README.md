@@ -62,6 +62,9 @@
 * http://www.cise.ufl.edu/research/sparse/matrices/
 * http://kukuruku.co/hub/algorithms/social-network-analysis-spark-graphx
 * http://www.sparktutorials.net/analyzing-flight-data:-a-gentle-introduction-to-graphx-in-spark
+* http://www.ibmbigdatahub.com/blog/why-we-need-methodology-data-science
+* https://tech.evojam.com/2016/04/20/tackling-a-1-billion-member-social-network-fast-search-on-a-large-graph/
+* 
 
 
 ## Integrante
