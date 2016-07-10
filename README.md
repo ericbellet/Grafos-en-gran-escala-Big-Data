@@ -66,6 +66,17 @@
 * https://tech.evojam.com/2016/04/20/tackling-a-1-billion-member-social-network-fast-search-on-a-large-graph/
 * 
 
+Importantes:
+* http://snap.stanford.edu/data/soc-LiveJournal1.html
+* http://socialnetworks.mpi-sws.org/data-imc2007.html
+* http://ars-uns.blogspot.com/2014/05/deteccion-de-comunidades-algoritmo.html
+* https://dlegorreta.wordpress.com/2015/10/02/analisis-de-grafos/
+* https://spark.apache.org/docs/0.9.0/graphx-programming-guide.html
+* http://spark.apache.org/docs/latest/quick-start.html
+* https://amplab.cs.berkeley.edu/publication/graphx-grades/
+* http://apache-spark-user-list.1001560.n3.nabble.com/SparkR-Graphx-Connected-components-td24165.html
+* https://github.com/yukiegosapporo/gsw_passing_network/blob/master/plot_network.R
+* https://www.packtpub.com/packtlib/book/Big%20Data%20&%20Business%20Intelligence/9781784391805/2/ch02lvl1sec13/Network%20datasets
 
 ## Integrante
 
